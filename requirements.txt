@@ -1,0 +1,4 @@
+lxml==4.2.1
+peewee==3.5.0
+beautifulsoup4==4.6.0
+pyTelegramBotAPI==3.6.3
